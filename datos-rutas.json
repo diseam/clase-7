@@ -18,5 +18,48 @@
 		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/Publicaci%C3%B3nInstagram-01-700x700.png",
 		"lead": "Los enemigos del pueblo han disparado a matar más de alguna vez en nuestra historia, ante la amenaza de levantamiento o revueltas sociales.",
 		"texto": "…"
+	},
+	{
+		"fecha": "Septiembre 2018",
+		"nombre": "Compañero Tormen",
+		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/40293686_1913267798979553_5436112051820822528_n-700x700.jpg",
+		"lead": "Esta ruta se realizó por segundo año como un ejercicio de rescate y valorización de memoria colectiva.",
+		"texto": "…"
+	},
+	{
+		"fecha": "Agosto 2018",
+		"nombre": "Estúpido y Sensual Santiago",
+		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/38600455_1892542741052059_1958641155834904576_n-700x700.jpg",
+		"lead": "El sexo vende, lo sabemos, pero en nuestra sociedad en particular, se enredan y mezclan las animitas, el trabajo sexual, los cafés y las piernas, los lugares para encuentros furtivos para mostrar nuestro lado más prohibido y oscuro.",
+		"texto": "…"
+	},
+	{
+		"fecha": "Julio 2018",
+		"nombre": "Ruta Feministas",
+		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/36708904_1861997667439900_6711961730961899520_n-700x700.jpg",
+		"lead": "Realizamos un seguimiento por la historia de las reivindicaciones de los derechos de la mujer y desde las distintas plataformas que han realizado esta lucha.",
+		"texto": "…"
+	},
+	{
+		"fecha": "Junio 2018",
+		"nombre": "Ruta Anarquista",
+		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/35206739_1841665736139760_4632837259186405376_n-700x700.jpg",
+		"lead": "Contar cómo se ha dado la lucha anarquista en Chile desde principios de 1900 y observar el aporte que fue realizando esta ideología con los trabajadores y mujeres de nuestro país.",
+		"texto": "…"
+	},
+	{
+		"fecha": "Mayo 2018",
+		"nombre": "Travas heart",
+		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/travas.png",
+		"lead": "Recorrer las calles del Santiago travesti para ir en busca de su historia, lucha y resistencia, la cual, durante años se ha querido ocultar, negar y hasta vulgarizar.",
+		"texto": "…"
+	},
+	{
+		"fecha": "Abril 2018",
+		"nombre": "Divinísima Ruta Anticristísima",
+		"foto": "http://www.lostbicitantes.cl/wp-content/uploads/2018/11/30713186_1816761615296839_9177952723339837440_n-700x700.jpg",
+		"lead": "En memoria de José Onofre Pizarro Caravantes, quien recorriera las calles del barrio San Borja, Lastarrias y Forestal con un carrito de supermercado, vestido con un falda y un pañuelo en su cabeza.",
+		"texto": "…"
 	}
+	
 ]

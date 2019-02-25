@@ -1,25 +1,25 @@
 [{
-		"nombre": "Udo …",
+		"nombre": "Udo Peréz Cruz",
 		"foto":"img/udo.jpg",
-		"cargo": "Cargo",
-		"twitter": "https://twitter.com/",
-		"mail": "mailto:mail@mail.com",
-		"instagram": "https://www.instagram.com/"
+		"cargo": "Alma libre",
+		"twitter": "https://twitter.com/ElZiudadano",
+		"mail": "mailto:udo@lostbicitantes.cl",
+		"instagram": "https://www.instagram.com/ziudadano/"
 	},
 	{
-		"nombre": "Fran …",
+		"nombre": "Fran Génova",
 		"foto":"img/fran.jpg",
-		"cargo": "Cargo",
-		"twitter": "https://twitter.com/",
-		"mail": "mailto:mail@mail.com",
-		"instagram": "https://www.instagram.com/"
+		"cargo": "Hinchapelotas, web y RRSS",
+		"twitter": "https://twitter.com/lostbicitantes",
+		"mail": "mailto:fran@lostbicitantes.cl",
+		"instagram": "https://www.instagram.com/diseam"
 	},
 	{
-		"nombre": "Rodrigo …",
+		"nombre": "Rodrigo Feroz",
 		"foto":"img/rodrigo.jpg",		
-		"cargo": "Cargo",
-		"twitter": "https://twitter.com/",
-		"mail": "mailto:mail@mail.com",
-		"instagram": "https://www.instagram.com/"
+		"cargo": "Logística",
+		"twitter": "https://twitter.com/agoucha",
+		"mail": "mailto:rodrigo@lostbicitantes.cl",
+		"instagram": "https://www.instagram.com/rodrigo_feroz/"
 	}
 ]
